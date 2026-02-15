@@ -1,0 +1,161 @@
+{
+    "models": [
+        {
+            "grup_name": "en",
+            "models": [
+                {
+                    "id": "87387187xzajnbasd98",
+                    "language": "en",
+                    "name": "asher",
+                    "description": "Asher’s smooth influencer-style with charismatic delivery and subtle humour breaks down style, aura, and fashion hacks in a way that’s effortless, relatable, and internationally friendly on social media platforms.",
+                    "file": "models/en/asher.mp3",
+                    "gender": "male"
+                },
+                {
+                    "id": "XiPS9cXxAVbaIWtGDHDh",
+                    "language": "en",
+                    "name": "brittney",
+                    "description": "A young, peppy female with clear pronunciation and a smile! She's great for YouTube channels, how-to videos, explainers, teenager characters, and more! Very relatable for younger audiences. A bright, optimistic voice for social media and more!.",
+                    "file": "models/en/brittney.mp3",
+                    "gender": "female"
+                },
+                {
+                    "id": "u4r9t8v7w6x5y4z3a2b1",
+                    "language": "en",
+                    "name": "todd",
+                    "file": "models/en/todd.mp3",
+                    "gender": "male"
+                },
+                {
+                    "id": "c3d4e5f6g7h8i9j0k1l2",
+                    "language": "en",
+                    "name": "lora",
+                    "file": "models/en/lora.mp3",
+                    "gender": "female"
+                },
+                {
+                    "id": "m3n4o5p6q7r8s9t0u1v2",
+                    "language": "en",
+                    "name": "sora",
+                    "file": "models/en/sora.mp3",
+                    "gender": "female"
+                },
+                {
+                    "id": "w3x4y5z6a7b8c9d0e1f2",
+                    "language": "en",
+                    "name": "ryan",
+                    "file": "models/en/ryan.mp3",
+                    "gender": "male"
+                },
+                {
+                    "id": "g3h4i5j6k7l8m9n0o1p2",
+                    "language": "en",
+                    "name": "deya",
+                    "file": "models/en/deya.mp3",
+                    "gender": "female"
+                },
+                {
+                    "id": "q3r4s5t6u7v8w9x0y1z2",
+                    "language": "en",
+                    "name": "debi",
+                    "file": "models/en/debi.mp3",
+                    "gender": "female"
+                },
+                {
+                    "id": "a3b4c5d6e7f8g9h0i1j2",
+                    "language": "en",
+                    "name": "christopher",
+                    "file": "models/en/christopher.mp3",
+                    "gender": "male"
+                },
+                {
+                    "id": "k3l4m5n6o7p8q9r0s1t2",
+                    "language": "en",
+                    "name": "kristen",
+                    "file": "models/en/kristen .mp3",
+                    "gender": "female"
+                },
+                {
+                    "id": "u3v4w5x6y7z8a9b0c1d2",
+                    "language": "en",
+                    "name": "toby",
+                    "file": "models/en/toby.mp3",
+                    "gender": "male"
+                },
+                {
+                    "id": "e3f4g5h6i7j8k9l0m1n2",
+                    "language": "en",
+                    "name": "case",
+                    "file": "models/en/case.mp3",
+                    "gender": "male"
+                }
+            ]
+        },
+        {
+            "grup_name": "es",
+            "models": [
+                {
+                    "id": "s8t9u0v1w2x3y4z5a6b7",
+                    "language": "es",
+                    "name": "alber",
+                    "file": "models/es/alber.mp3",
+                    "gender": "male"
+                },
+                {
+                    "id": "n8o9p0q1r2s3t4u5v6w7",
+                    "language": "es",
+                    "name": "natalia",
+                    "file": "models/es/natalia.mp3",
+                    "gender": "female"
+                },
+                {
+                    "id": "h8i9j0k1l2m3n4o5p6q7",
+                    "language": "es",
+                    "name": "sofi",
+                    "file": "models/es/sofi.mp3",
+                    "gender": "female"
+                },
+                {
+                    "id": "b8c9d0e1f2g3h4i5j6k7",
+                    "language": "es",
+                    "name": "estefania",
+                    "file": "models/es/estefania.mp3",
+                    "gender": "female"
+                },
+                {
+                    "id": "x1y2z3a4b5c6d7e8f9g0",
+                    "language": "es",
+                    "name": "miguel",
+                    "file": "models/es/miguel.mp3",
+                    "gender": "male"
+                },
+                {
+                    "id": "h1i2j3k4l5m6n7o8p9q0",
+                    "language": "es",
+                    "name": "tony",
+                    "file": "models/es/tony.mp3",
+                    "gender": "male"
+                }
+            ]
+        },
+        {
+            "grup_name": "pt",
+            "models": [
+                {
+                    "id": "p1a2u3l4o5p6t7b8r900",
+                    "language": "pt",
+                    "name": "paulo",
+                    "file": "models/pt/paulo.mp3",
+                    "gender": "male"
+                },
+                {
+                    "id": "l9o8s7a6r5o4p3t2b100",
+                    "language": "pt",
+                    "name": "losaro",
+                    "file": "models/pt/losaro.mp3",
+                    "gender": "male"
+                }
+            ]
+        }
+    ]
+}
