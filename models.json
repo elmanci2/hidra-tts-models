@@ -9,7 +9,8 @@
                     "name": "asher",
                     "description": "Asher’s smooth influencer-style with charismatic delivery and subtle humour breaks down style, aura, and fashion hacks in a way that’s effortless, relatable, and internationally friendly on social media platforms.",
                     "file": "models/en/asher.mp3",
-                    "gender": "male"
+                    "gender": "male",
+                    "ref_text": "Today, I'm giving you three fashion hacks that level you up instantly. Internationally friendly, no matter where you are in the world. Let's go!"
                 },
                 {
                     "id": "XiPS9cXxAVbaIWtGDHDh",
@@ -17,77 +18,88 @@
                     "name": "brittney",
                     "description": "A young, peppy female with clear pronunciation and a smile! She's great for YouTube channels, how-to videos, explainers, teenager characters, and more! Very relatable for younger audiences. A bright, optimistic voice for social media and more!.",
                     "file": "models/en/brittney.mp3",
-                    "gender": "female"
+                    "gender": "female",
+                    "ref_text": "Hey guys, today is all about the steaming hot tea. Have you heard this gossip? Grab a cup and get cozy? I've got lots to spill!"
                 },
                 {
                     "id": "u4r9t8v7w6x5y4z3a2b1",
                     "language": "en",
                     "name": "todd",
                     "file": "models/en/todd.mp3",
-                    "gender": "male"
+                    "gender": "male",
+                    "ref_text": "Hey, I'm Todd, and today we're going to talk about nanoparticles. Did you know you can't trust atoms? That's because they make up everything."
                 },
                 {
                     "id": "c3d4e5f6g7h8i9j0k1l2",
                     "language": "en",
                     "name": "lora",
                     "file": "models/en/lora.mp3",
-                    "gender": "female"
+                    "gender": "female",
+                    "ref_text": "This is the honest truth."
                 },
                 {
                     "id": "m3n4o5p6q7r8s9t0u1v2",
                     "language": "en",
                     "name": "sora",
                     "file": "models/en/sora.mp3",
-                    "gender": "female"
+                    "gender": "female",
+                    "ref_text": "This is the honest truth."
                 },
                 {
                     "id": "w3x4y5z6a7b8c9d0e1f2",
                     "language": "en",
                     "name": "ryan",
                     "file": "models/en/ryan.mp3",
-                    "gender": "male"
+                    "gender": "male",
+                    "ref_text": "Okay, I've actually been using this for a week, so here's the honest truth. What's good, what's annoying, and if it's worth it."
                 },
                 {
                     "id": "g3h4i5j6k7l8m9n0o1p2",
                     "language": "en",
                     "name": "deya",
                     "file": "models/en/deya.mp3",
-                    "gender": "female"
+                    "gender": "female",
+                    "ref_text": "If you look on wealth as a thing to be valued, your imaginary poverty will cause you torment."
                 },
                 {
                     "id": "q3r4s5t6u7v8w9x0y1z2",
                     "language": "en",
                     "name": "debi",
                     "file": "models/en/debi.mp3",
-                    "gender": "female"
+                    "gender": "female",
+                    "ref_text": "Forests are nature's libraries where trees are the wise tomes."
                 },
                 {
                     "id": "a3b4c5d6e7f8g9h0i1j2",
                     "language": "en",
                     "name": "christopher",
                     "file": "models/en/christopher.mp3",
-                    "gender": "male"
+                    "gender": "male",
+                    "ref_text": "Use this voice for anything particular to news, social media, and even storytelling if you'd like."
                 },
                 {
                     "id": "k3l4m5n6o7p8q9r0s1t2",
                     "language": "en",
                     "name": "kristen",
                     "file": "models/en/kristen .mp3",
-                    "gender": "female"
+                    "gender": "female",
+                    "ref_text": "Yeah, so I was going to cook a real dinner, but then I remembered I own like six different kinds of cereal. So, you know, problem solved."
                 },
                 {
                     "id": "u3v4w5x6y7z8a9b0c1d2",
                     "language": "en",
                     "name": "toby",
                     "file": "models/en/toby.mp3",
-                    "gender": "male"
+                    "gender": "male",
+                    "ref_text": "In the ancient land of Eldoria, where the skies were painted with shades of mystic hues, there was the most beautiful dragon named Zephyros."
                 },
                 {
                     "id": "e3f4g5h6i7j8k9l0m1n2",
                     "language": "en",
                     "name": "case",
                     "file": "models/en/case.mp3",
-                    "gender": "male"
+                    "gender": "male",
+                    "ref_text": "Honestly, I still have days where I feel lost, but even then I know I'm getting closer, far from perfection but closer to my truth."
                 }
             ]
         },
@@ -99,63 +111,72 @@
                     "language": "es",
                     "name": "alber",
                     "file": "models/es/alber.mp3",
-                    "gender": "male"
+                    "gender": "male",
+                    "ref_text": "Hola, soy una voz cálida y natural, perfecta para narraciones, videos informativos o historias que busquen cercanía y emoción."
                 },
                 {
                     "id": "n8o9p0q1r2s3t4u5v6w7",
                     "language": "es",
                     "name": "natalia",
                     "file": "models/es/natalia.mp3",
-                    "gender": "female"
+                    "gender": "female",
+                    "ref_text": "Hola soy Natalia y seré tu mejor voz para vender por WhatsApp y para tus anuncios ganadores."
                 },
                 {
                     "id": "h8i9j0k1l2m3n4o5p6q7",
                     "language": "es",
                     "name": "sofi",
                     "file": "models/es/sofi.mp3",
-                    "gender": "female"
+                    "gender": "female",
+                    "ref_text": "Con pasos suaves y mirada curiosa, explora el mundo soñando despierta, guardando mil ilusiones detrás de su sonrisa dulce."
                 },
                 {
                     "id": "b8c9d0e1f2g3h4i5j6k7",
                     "language": "es",
                     "name": "estefania",
                     "file": "models/es/estefania.mp3",
-                    "gender": "female"
+                    "gender": "female",
+                    "ref_text": "¿Te gustaría que cuente tus historias de forma alegre y divertida? Soy Fernanda. Elige mi voz y crea contenido conmigo."
                 },
                 {
                     "id": "x1y2z3a4b5c6d7e8f9g0",
                     "language": "es",
                     "name": "miguel",
                     "file": "models/es/miguel.mp3",
-                    "gender": "male"
+                    "gender": "male",
+                    "ref_text": "No todas las historias comienzan con luz, algunas de ellas comienzan en silencio."
                 },
                 {
                     "id": "h1i2j3k4l5m6n7o8p9q0",
                     "language": "es",
                     "name": "tony",
                     "file": "models/es/tony.mp3",
-                    "gender": "male"
+                    "gender": "male",
+                    "ref_text": "Hola mi carnal, aquí llegó tu cuate Tony, directo desde el mero, mero México para que uses mi voz en todos tus proyectos. Órale, ¿qué estás esperando?"
                 },
                 {
                     "id": "a1b2c3d4e5f6g7h8i9j0",
                     "language": "es",
                     "name": "arturo",
                     "file": "models/es/arturo.mp3",
-                    "gender": "male"
+                    "gender": "male",
+                    "ref_text": "La libert."
                 },
                 {
                     "id": "dfaafadaaar434afsad",
                     "language": "es",
                     "name": "david",
                     "file": "modeles/es/david.mp3",
-                    "gender": "male"
+                    "gender": "male",
+                    "ref_text": "¿Sabías que el verdadero origen de San Valentín no es una historia de amor sino de tragedia? Y este es su origen."
                 },
                 {
                     "id": "sdadsSDDDDpkooomowojij",
                     "language": "es",
                     "name": "alejandro",
-                    "file": "modeles/es/alejandro.mp3",
-                    "gender": "male"
+                    "file": "models/es/alejandro.mp3",
+                    "gender": "male",
+                    "ref_text": "Si necesitas una voz que haga destacar tu proyecto, estoy aquí para hacerlo brillar."
                 }
             ]
         },
@@ -167,14 +188,16 @@
                     "language": "pt",
                     "name": "paulo",
                     "file": "models/pt/paulo.mp3",
-                    "gender": "male"
+                    "gender": "male",
+                    "ref_text": "Prepare-se, pois hoje veremos mais histórias reais incríveis de pessoas sortudas que sobreviveram ao impossível."
                 },
                 {
                     "id": "l9o8s7a6r5o4p3t2b100",
                     "language": "pt",
                     "name": "losaro",
                     "file": "models/pt/losaro.mp3",
-                    "gender": "male"
+                    "gender": "male",
+                    "ref_text": "A ideia é nunca perder a motivação para subir cada degrau rumo ao sucesso, por mais difícil que seja."
                 }
             ]
         }
