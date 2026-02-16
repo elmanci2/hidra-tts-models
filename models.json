@@ -25,6 +25,7 @@
                     "id": "u4r9t8v7w6x5y4z3a2b1",
                     "language": "en",
                     "name": "todd",
+                    "description": "An approachable and educational male voice, perfect for science explainers, tutorials, and informative content.",
                     "file": "models/en/todd.mp3",
                     "gender": "male",
                     "ref_text": "Hey, I'm Todd, and today we're going to talk about nanoparticles. Did you know you can't trust atoms? That's because they make up everything."
@@ -33,6 +34,7 @@
                     "id": "c3d4e5f6g7h8i9j0k1l2",
                     "language": "en",
                     "name": "lora",
+                    "description": "A serious and direct female voice, suitable for honest testimonials, dramatic statements, and clear messaging.",
                     "file": "models/en/lora.mp3",
                     "gender": "female",
                     "ref_text": "This is the honest truth."
@@ -41,6 +43,7 @@
                     "id": "m3n4o5p6q7r8s9t0u1v2",
                     "language": "en",
                     "name": "sora",
+                    "description": "A calm and sincere female voice, ideal for straightforward delivery and honest communication.",
                     "file": "models/en/sora.mp3",
                     "gender": "female",
                     "ref_text": "This is the honest truth."
@@ -49,6 +52,7 @@
                     "id": "w3x4y5z6a7b8c9d0e1f2",
                     "language": "en",
                     "name": "ryan",
+                    "description": "A conversational male voice, great for product reviews, tech talks, and casual recommendations.",
                     "file": "models/en/ryan.mp3",
                     "gender": "male",
                     "ref_text": "Okay, I've actually been using this for a week, so here's the honest truth. What's good, what's annoying, and if it's worth it."
@@ -57,6 +61,7 @@
                     "id": "g3h4i5j6k7l8m9n0o1p2",
                     "language": "en",
                     "name": "deya",
+                    "description": "A calm and reflective female voice, well-suited for philosophical quotes, mindfulness, or poetry.",
                     "file": "models/en/deya.mp3",
                     "gender": "female",
                     "ref_text": "If you look on wealth as a thing to be valued, your imaginary poverty will cause you torment."
@@ -65,6 +70,7 @@
                     "id": "q3r4s5t6u7v8w9x0y1z2",
                     "language": "en",
                     "name": "debi",
+                    "description": "A poetic and serene female voice, perfect for nature documentaries and elegant storytelling.",
                     "file": "models/en/debi.mp3",
                     "gender": "female",
                     "ref_text": "Forests are nature's libraries where trees are the wise tomes."
@@ -73,6 +79,7 @@
                     "id": "a3b4c5d6e7f8g9h0i1j2",
                     "language": "en",
                     "name": "christopher",
+                    "description": "A professional male voice designed for news broadcasting, journalism, and formal announcements.",
                     "file": "models/en/christopher.mp3",
                     "gender": "male",
                     "ref_text": "Use this voice for anything particular to news, social media, and even storytelling if you'd like."
@@ -81,6 +88,7 @@
                     "id": "k3l4m5n6o7p8q9r0s1t2",
                     "language": "en",
                     "name": "kristen",
+                    "description": "A relatable and humorous female voice, ideal for lifestyle vlogs, personal stories, and casual chatter.",
                     "file": "models/en/kristen .mp3",
                     "gender": "female",
                     "ref_text": "Yeah, so I was going to cook a real dinner, but then I remembered I own like six different kinds of cereal. So, you know, problem solved."
@@ -89,6 +97,7 @@
                     "id": "u3v4w5x6y7z8a9b0c1d2",
                     "language": "en",
                     "name": "toby",
+                    "description": "A captivating male storyteller voice, perfect for fantasy narration, audiobooks, and epic tales.",
                     "file": "models/en/toby.mp3",
                     "gender": "male",
                     "ref_text": "In the ancient land of Eldoria, where the skies were painted with shades of mystic hues, there was the most beautiful dragon named Zephyros."
@@ -97,6 +106,7 @@
                     "id": "e3f4g5h6i7j8k9l0m1n2",
                     "language": "en",
                     "name": "case",
+                    "description": "A vulnerable and authentic male voice, suitable for personal narratives, emotional content, and testimonials.",
                     "file": "models/en/case.mp3",
                     "gender": "male",
                     "ref_text": "Honestly, I still have days where I feel lost, but even then I know I'm getting closer, far from perfection but closer to my truth."
@@ -110,6 +120,7 @@
                     "id": "s8t9u0v1w2x3y4z5a6b7",
                     "language": "es",
                     "name": "alber",
+                    "description": "A warm and natural Spanish male voice, excellent for narrations, documentaries, and emotional storytelling.",
                     "file": "models/es/alber.mp3",
                     "gender": "male",
                     "ref_text": "Hola, soy una voz cálida y natural, perfecta para narraciones, videos informativos o historias que busquen cercanía y emoción."
@@ -118,6 +129,7 @@
                     "id": "n8o9p0q1r2s3t4u5v6w7",
                     "language": "es",
                     "name": "natalia",
+                    "description": "An energetic and convincing Spanish female voice, optimized for sales, advertisements, and promotional messages.",
                     "file": "models/es/natalia.mp3",
                     "gender": "female",
                     "ref_text": "Hola soy Natalia y seré tu mejor voz para vender por WhatsApp y para tus anuncios ganadores."
@@ -126,6 +138,7 @@
                     "id": "h8i9j0k1l2m3n4o5p6q7",
                     "language": "es",
                     "name": "sofi",
+                    "description": "A soft and dreamy Spanish female voice, ideal for bedtime stories, heavy storytelling, and imaginative content.",
                     "file": "models/es/sofi.mp3",
                     "gender": "female",
                     "ref_text": "Con pasos suaves y mirada curiosa, explora el mundo soñando despierta, guardando mil ilusiones detrás de su sonrisa dulce."
@@ -134,6 +147,7 @@
                     "id": "b8c9d0e1f2g3h4i5j6k7",
                     "language": "es",
                     "name": "estefania",
+                    "description": "A cheerful and fun Spanish female voice (Fernanda), perfect for social media content greeting and lively storytelling.",
                     "file": "models/es/estefania.mp3",
                     "gender": "female",
                     "ref_text": "¿Te gustaría que cuente tus historias de forma alegre y divertida? Soy Fernanda. Elige mi voz y crea contenido conmigo."
@@ -142,6 +156,7 @@
                     "id": "x1y2z3a4b5c6d7e8f9g0",
                     "language": "es",
                     "name": "miguel",
+                    "description": "A deep and dramatic Spanish male voice, suitable for serious storytelling, suspense, and cinematic intros.",
                     "file": "models/es/miguel.mp3",
                     "gender": "male",
                     "ref_text": "No todas las historias comienzan con luz, algunas de ellas comienzan en silencio."
@@ -150,6 +165,7 @@
                     "id": "h1i2j3k4l5m6n7o8p9q0",
                     "language": "es",
                     "name": "tony",
+                    "description": "A casual and friendly Mexican Spanish male voice, full of slang and local flavor, great for urban and youth-oriented content.",
                     "file": "models/es/tony.mp3",
                     "gender": "male",
                     "ref_text": "Hola mi carnal, aquí llegó tu cuate Tony, directo desde el mero, mero México para que uses mi voz en todos tus proyectos. Órale, ¿qué estás esperando?"
@@ -158,6 +174,7 @@
                     "id": "a1b2c3d4e5f6g7h8i9j0",
                     "language": "es",
                     "name": "arturo",
+                    "description": "A strong and direct Spanish male voice, suitable for reading quotes and emphatic statements.",
                     "file": "models/es/arturo.mp3",
                     "gender": "male",
                     "ref_text": "La libert."
@@ -166,6 +183,7 @@
                     "id": "dfaafadaaar434afsad",
                     "language": "es",
                     "name": "david",
+                    "description": "An engaging Spanish male voice, perfect for curiosities, history facts, and educational shorts.",
                     "file": "modeles/es/david.mp3",
                     "gender": "male",
                     "ref_text": "¿Sabías que el verdadero origen de San Valentín no es una historia de amor sino de tragedia? Y este es su origen."
@@ -174,6 +192,7 @@
                     "id": "sdadsSDDDDpkooomowojij",
                     "language": "es",
                     "name": "alejandro",
+                    "description": "A professional and commanding Spanish male voice, ideal for project presentations and standing out.",
                     "file": "models/es/alejandro.mp3",
                     "gender": "male",
                     "ref_text": "Si necesitas una voz que haga destacar tu proyecto, estoy aquí para hacerlo brillar."
@@ -187,6 +206,7 @@
                     "id": "p1a2u3l4o5p6t7b8r900",
                     "language": "pt",
                     "name": "paulo",
+                    "description": "An exciting Portuguese male voice, perfect for YouTube intros, curiosity channels, and storytelling.",
                     "file": "models/pt/paulo.mp3",
                     "gender": "male",
                     "ref_text": "Prepare-se, pois hoje veremos mais histórias reais incríveis de pessoas sortudas que sobreviveram ao impossível."
@@ -195,6 +215,7 @@
                     "id": "l9o8s7a6r5o4p3t2b100",
                     "language": "pt",
                     "name": "losaro",
+                    "description": "A motivational Portuguese male voice, inspiring and determined, great for coaching and uplifting content.",
                     "file": "models/pt/losaro.mp3",
                     "gender": "male",
                     "ref_text": "A ideia é nunca perder a motivação para subir cada degrau rumo ao sucesso, por mais difícil que seja."
