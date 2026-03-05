@@ -117,6 +117,15 @@
             "grup_name": "es",
             "models": [
                 {
+                    "id": "343253dfsPPDfasaassd",
+                    "language": "es",
+                    "name": "arthis_kuvs",
+                    "description": "A warm and natural Spanish male voice, excellent for narrations, documentaries, and emotional storytelling.",
+                    "file": "models/es/arthis_kuvs.mp3",
+                    "gender": "male",
+                    "ref_text": "La transformación más inútil de Dragon Ball creó al villano más querido de todo el anime. En 1993, el guionista Takao Kojima estaba viendo el episodio donde Trunks del futuro se transforma en el Super Saiyajin de tercer grado para pelear contra Cell. Y a ver, Dragon Ball es un poco raro porque la transformación de Trunks no es una fase nueva como la de Boku Super Saiyajin 3, sino que nada más se pone super ponchado. El propio Cell se burla de él porque la forma era tan pesada que Trunks no podía ni moverse. El anime la trata como un error, una elección de lo que no hay que hacer. Pero Takao vio otra cosa, pensó, y si estar super ponchado absurdamente no fue un defecto sino el punto entero de un personaje. Así nació Broly, Toriyama le diseñó Luke y Takao le dio la historia, un Saiyajin con un nivel de poder de 10.000 al nacer, tan inestable que el propio Rey Vegeta ordenó eliminarlo. Básicamente lo que Trunks hubiera sido si la transformación que falló fuera permanente. Lo más raro es que Broly nunca fue Kana. Tres películas, cero relevancia oficial, pero se volvió tan absurdamente popular que 25 años después Toriyama, que admiquió haberse olvidado por completo de él, lo reescribió desde cero para la película de 2018, la película de Dragon Ball más taquillea. Todo porque alguien vio una transformación inútil y dijo, ahí hay uno de los mejores villanos de la historia."
+                },
+                {
                     "id": "s8t9u0v1w2x3y4z5a6b7",
                     "language": "es",
                     "name": "alber",
@@ -177,7 +186,7 @@
                     "description": "A strong and direct Spanish male voice, suitable for reading quotes and emphatic statements.",
                     "file": "models/es/arturo.mp3",
                     "gender": "male",
-                    "ref_text": "La libert."
+                    "ref_text": "La libertad individual es innegociable. ¿De eso puedes estar seguro? ¿O no?"
                 },
                 {
                     "id": "dfaafadaaar434afsad",
