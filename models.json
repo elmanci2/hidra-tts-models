@@ -9,6 +9,7 @@
                     "name": "asher",
                     "description": "Asher’s smooth influencer-style with charismatic delivery and subtle humour breaks down style, aura, and fashion hacks in a way that’s effortless, relatable, and internationally friendly on social media platforms.",
                     "file": "models/en/asher.mp3",
+                    "model": "models/en/pt/asher.pt",
                     "gender": "male",
                     "ref_text": "Today, I'm giving you three fashion hacks that level you up instantly. Internationally friendly, no matter where you are in the world. Let's go!"
                 },
@@ -16,6 +17,7 @@
                     "id": "XiPS9cXxAVbaIWtGDHDh",
                     "language": "en",
                     "name": "brittney",
+                    "model": "models/en/pt/brittney.pt",
                     "description": "A young, peppy female with clear pronunciation and a smile! She's great for YouTube channels, how-to videos, explainers, teenager characters, and more! Very relatable for younger audiences. A bright, optimistic voice for social media and more!.",
                     "file": "models/en/brittney.mp3",
                     "gender": "female",
@@ -27,6 +29,7 @@
                     "name": "todd",
                     "description": "An approachable and educational male voice, perfect for science explainers, tutorials, and informative content.",
                     "file": "models/en/todd.mp3",
+                    "model": "models/en/pt/todd.pt",
                     "gender": "male",
                     "ref_text": "Hey, I'm Todd, and today we're going to talk about nanoparticles. Did you know you can't trust atoms? That's because they make up everything."
                 },
@@ -37,7 +40,8 @@
                     "description": "A serious and direct female voice, suitable for honest testimonials, dramatic statements, and clear messaging.",
                     "file": "models/en/lora.mp3",
                     "gender": "female",
-                    "ref_text": "This is the honest truth."
+                    "ref_text": "This is the honest truth.",
+                    "model": "models/en/pt/lora.pt"
                 },
                 {
                     "id": "m3n4o5p6q7r8s9t0u1v2",
@@ -46,7 +50,8 @@
                     "description": "A calm and sincere female voice, ideal for straightforward delivery and honest communication.",
                     "file": "models/en/sora.mp3",
                     "gender": "female",
-                    "ref_text": "This is the honest truth."
+                    "ref_text": "This is the honest truth.",
+                    "model": "models/en/pt/sora.pt"
                 },
                 {
                     "id": "w3x4y5z6a7b8c9d0e1f2",
@@ -55,7 +60,8 @@
                     "description": "A conversational male voice, great for product reviews, tech talks, and casual recommendations.",
                     "file": "models/en/ryan.mp3",
                     "gender": "male",
-                    "ref_text": "Okay, I've actually been using this for a week, so here's the honest truth. What's good, what's annoying, and if it's worth it."
+                    "ref_text": "Okay, I've actually been using this for a week, so here's the honest truth. What's good, what's annoying, and if it's worth it.",
+                    "model": "models/en/pt/ryan.pt"
                 },
                 {
                     "id": "g3h4i5j6k7l8m9n0o1p2",
@@ -64,7 +70,8 @@
                     "description": "A calm and reflective female voice, well-suited for philosophical quotes, mindfulness, or poetry.",
                     "file": "models/en/deya.mp3",
                     "gender": "female",
-                    "ref_text": "If you look on wealth as a thing to be valued, your imaginary poverty will cause you torment."
+                    "ref_text": "If you look on wealth as a thing to be valued, your imaginary poverty will cause you torment.",
+                    "model": "models/en/pt/deya.pt"
                 },
                 {
                     "id": "q3r4s5t6u7v8w9x0y1z2",
@@ -73,7 +80,8 @@
                     "description": "A poetic and serene female voice, perfect for nature documentaries and elegant storytelling.",
                     "file": "models/en/debi.mp3",
                     "gender": "female",
-                    "ref_text": "Forests are nature's libraries where trees are the wise tomes."
+                    "ref_text": "Forests are nature's libraries where trees are the wise tomes.",
+                    "model": "models/en/pt/debi.pt"
                 },
                 {
                     "id": "a3b4c5d6e7f8g9h0i1j2",
@@ -82,7 +90,8 @@
                     "description": "A professional male voice designed for news broadcasting, journalism, and formal announcements.",
                     "file": "models/en/christopher.mp3",
                     "gender": "male",
-                    "ref_text": "Use this voice for anything particular to news, social media, and even storytelling if you'd like."
+                    "ref_text": "Use this voice for anything particular to news, social media, and even storytelling if you'd like.",
+                    "model": "models/en/pt/christopher.pt"
                 },
                 {
                     "id": "k3l4m5n6o7p8q9r0s1t2",
@@ -91,7 +100,8 @@
                     "description": "A relatable and humorous female voice, ideal for lifestyle vlogs, personal stories, and casual chatter.",
                     "file": "models/en/kristen .mp3",
                     "gender": "female",
-                    "ref_text": "Yeah, so I was going to cook a real dinner, but then I remembered I own like six different kinds of cereal. So, you know, problem solved."
+                    "ref_text": "Yeah, so I was going to cook a real dinner, but then I remembered I own like six different kinds of cereal. So, you know, problem solved.",
+                    "model": "models/en/pt/kristen.pt"
                 },
                 {
                     "id": "u3v4w5x6y7z8a9b0c1d2",
@@ -100,7 +110,8 @@
                     "description": "A captivating male storyteller voice, perfect for fantasy narration, audiobooks, and epic tales.",
                     "file": "models/en/toby.mp3",
                     "gender": "male",
-                    "ref_text": "In the ancient land of Eldoria, where the skies were painted with shades of mystic hues, there was the most beautiful dragon named Zephyros."
+                    "ref_text": "In the ancient land of Eldoria, where the skies were painted with shades of mystic hues, there was the most beautiful dragon named Zephyros.",
+                    "model": "models/en/pt/toby.pt"
                 },
                 {
                     "id": "e3f4g5h6i7j8k9l0m1n2",
@@ -109,7 +120,8 @@
                     "description": "A vulnerable and authentic male voice, suitable for personal narratives, emotional content, and testimonials.",
                     "file": "models/en/case.mp3",
                     "gender": "male",
-                    "ref_text": "Honestly, I still have days where I feel lost, but even then I know I'm getting closer, far from perfection but closer to my truth."
+                    "ref_text": "Honestly, I still have days where I feel lost, but even then I know I'm getting closer, far from perfection but closer to my truth.",
+                    "model": "models/en/pt/case.pt"
                 }
             ]
         },
@@ -123,7 +135,8 @@
                     "description": "A warm and natural Spanish male voice, excellent for narrations, documentaries, and emotional storytelling.",
                     "file": "models/es/arthis_kuvs.mp3",
                     "gender": "male",
-                    "ref_text": "La transformación más inútil de Dragon Ball creó al villano más querido de todo el anime. En 1993, el guionista Takao Kojima estaba viendo el episodio donde Trunks del futuro se transforma en el Super Saiyajin de tercer grado para pelear contra Cell. Y a ver, Dragon Ball es un poco raro porque la transformación de Trunks no es una fase nueva como la de Boku Super Saiyajin 3, sino que nada más se pone super ponchado. El propio Cell se burla de él porque la forma era tan pesada que Trunks no podía ni moverse. El anime la trata como un error, una elección de lo que no hay que hacer. Pero Takao vio otra cosa, pensó, y si estar super ponchado absurdamente no fue un defecto sino el punto entero de un personaje. Así nació Broly, Toriyama le diseñó Luke y Takao le dio la historia, un Saiyajin con un nivel de poder de 10.000 al nacer, tan inestable que el propio Rey Vegeta ordenó eliminarlo. Básicamente lo que Trunks hubiera sido si la transformación que falló fuera permanente. Lo más raro es que Broly nunca fue Kana. Tres películas, cero relevancia oficial, pero se volvió tan absurdamente popular que 25 años después Toriyama, que admiquió haberse olvidado por completo de él, lo reescribió desde cero para la película de 2018, la película de Dragon Ball más taquillea. Todo porque alguien vio una transformación inútil y dijo, ahí hay uno de los mejores villanos de la historia."
+                    "ref_text": "La transformación más inútil de Dragon Ball creó al villano más querido de todo el anime. En 1993, el guionista Takao Kojima estaba viendo el episodio donde Trunks del futuro se transforma en el Super Saiyajin de tercer grado para pelear contra Cell. Y a ver, Dragon Ball es un poco raro porque la transformación de Trunks no es una fase nueva como la de Boku Super Saiyajin 3, sino que nada más se pone super ponchado. El propio Cell se burla de él porque la forma era tan pesada que Trunks no podía ni moverse. El anime la trata como un error, una elección de lo que no hay que hacer. Pero Takao vio otra cosa, pensó, y si estar super ponchado absurdamente no fue un defecto sino el punto entero de un personaje. Así nació Broly, Toriyama le diseñó Luke y Takao le dio la historia, un Saiyajin con un nivel de poder de 10.000 al nacer, tan inestable que el propio Rey Vegeta ordenó eliminarlo. Básicamente lo que Trunks hubiera sido si la transformación que falló fuera permanente. Lo más raro es que Broly nunca fue Kana. Tres películas, cero relevancia oficial, pero se volvió tan absurdamente popular que 25 años después Toriyama, que admiquió haberse olvidado por completo de él, lo reescribió desde cero para la película de 2018, la película de Dragon Ball más taquillea. Todo porque alguien vio una transformación inútil y dijo, ahí hay uno de los mejores villanos de la historia.",
+                    "model": "models/es/pt/arthis_kuvs.pt"
                 },
                 {
                     "id": "s8t9u0v1w2x3y4z5a6b7",
@@ -132,7 +145,8 @@
                     "description": "A warm and natural Spanish male voice, excellent for narrations, documentaries, and emotional storytelling.",
                     "file": "models/es/alber.mp3",
                     "gender": "male",
-                    "ref_text": "Hola, soy una voz cálida y natural, perfecta para narraciones, videos informativos o historias que busquen cercanía y emoción."
+                    "ref_text": "Hola, soy una voz cálida y natural, perfecta para narraciones, videos informativos o historias que busquen cercanía y emoción.",
+                    "model": "models/es/pt/alber.pt"
                 },
                 {
                     "id": "n8o9p0q1r2s3t4u5v6w7",
@@ -141,7 +155,8 @@
                     "description": "An energetic and convincing Spanish female voice, optimized for sales, advertisements, and promotional messages.",
                     "file": "models/es/natalia.mp3",
                     "gender": "female",
-                    "ref_text": "Hola soy Natalia y seré tu mejor voz para vender por WhatsApp y para tus anuncios ganadores."
+                    "ref_text": "Hola soy Natalia y seré tu mejor voz para vender por WhatsApp y para tus anuncios ganadores.",
+                    "model": "models/es/pt/natalia.pt"
                 },
                 {
                     "id": "h8i9j0k1l2m3n4o5p6q7",
@@ -150,7 +165,8 @@
                     "description": "A soft and dreamy Spanish female voice, ideal for bedtime stories, heavy storytelling, and imaginative content.",
                     "file": "models/es/sofi.mp3",
                     "gender": "female",
-                    "ref_text": "Con pasos suaves y mirada curiosa, explora el mundo soñando despierta, guardando mil ilusiones detrás de su sonrisa dulce."
+                    "ref_text": "Con pasos suaves y mirada curiosa, explora el mundo soñando despierta, guardando mil ilusiones detrás de su sonrisa dulce.",
+                    "model": "models/es/pt/sofi.pt"
                 },
                 {
                     "id": "b8c9d0e1f2g3h4i5j6k7",
@@ -159,7 +175,8 @@
                     "description": "A cheerful and fun Spanish female voice (Fernanda), perfect for social media content greeting and lively storytelling.",
                     "file": "models/es/estefania.mp3",
                     "gender": "female",
-                    "ref_text": "¿Te gustaría que cuente tus historias de forma alegre y divertida? Soy Fernanda. Elige mi voz y crea contenido conmigo."
+                    "ref_text": "¿Te gustaría que cuente tus historias de forma alegre y divertida? Soy Fernanda. Elige mi voz y crea contenido conmigo.",
+                    "model": "models/es/pt/estefania.pt"
                 },
                 {
                     "id": "x1y2z3a4b5c6d7e8f9g0",
@@ -168,7 +185,8 @@
                     "description": "A deep and dramatic Spanish male voice, suitable for serious storytelling, suspense, and cinematic intros.",
                     "file": "models/es/miguel.mp3",
                     "gender": "male",
-                    "ref_text": "No todas las historias comienzan con luz, algunas de ellas comienzan en silencio."
+                    "ref_text": "No todas las historias comienzan con luz, algunas de ellas comienzan en silencio.",
+                    "model": "models/es/pt/miguel.pt"
                 },
                 {
                     "id": "h1i2j3k4l5m6n7o8p9q0",
@@ -177,7 +195,8 @@
                     "description": "A casual and friendly Mexican Spanish male voice, full of slang and local flavor, great for urban and youth-oriented content.",
                     "file": "models/es/tony.mp3",
                     "gender": "male",
-                    "ref_text": "Hola mi carnal, aquí llegó tu cuate Tony, directo desde el mero, mero México para que uses mi voz en todos tus proyectos. Órale, ¿qué estás esperando?"
+                    "ref_text": "Hola mi carnal, aquí llegó tu cuate Tony, directo desde el mero, mero México para que uses mi voz en todos tus proyectos. Órale, ¿qué estás esperando?",
+                    "model": "models/es/pt/tony.pt"
                 },
                 {
                     "id": "a1b2c3d4e5f6g7h8i9j0",
@@ -186,16 +205,18 @@
                     "description": "A strong and direct Spanish male voice, suitable for reading quotes and emphatic statements.",
                     "file": "models/es/arturo.mp3",
                     "gender": "male",
-                    "ref_text": "La libertad individual es innegociable. ¿De eso puedes estar seguro? ¿O no?"
+                    "ref_text": "La libertad individual es innegociable. ¿De eso puedes estar seguro? ¿O no?",
+                    "model": "models/es/pt/arturo.pt"
                 },
                 {
                     "id": "dfaafadaaar434afsad",
                     "language": "es",
                     "name": "david",
                     "description": "An engaging Spanish male voice, perfect for curiosities, history facts, and educational shorts.",
-                    "file": "modeles/es/david.mp3",
+                    "file": "models/es/david.mp3",
                     "gender": "male",
-                    "ref_text": "¿Sabías que el verdadero origen de San Valentín no es una historia de amor sino de tragedia? Y este es su origen."
+                    "ref_text": "¿Sabías que el verdadero origen de San Valentín no es una historia de amor sino de tragedia? Y este es su origen.",
+                    "model": "models/es/pt/david.pt"
                 },
                 {
                     "id": "sdadsSDDDDpkooomowojij",
@@ -204,7 +225,8 @@
                     "description": "A professional and commanding Spanish male voice, ideal for project presentations and standing out.",
                     "file": "models/es/alejandro.mp3",
                     "gender": "male",
-                    "ref_text": "Si necesitas una voz que haga destacar tu proyecto, estoy aquí para hacerlo brillar."
+                    "ref_text": "Si necesitas una voz que haga destacar tu proyecto, estoy aquí para hacerlo brillar.",
+                    "model": "models/es/pt/alejandro.pt"
                 },
                 {
                     "id": "aaaurekiekalo",
@@ -213,7 +235,8 @@
                     "description": "A professional and commanding Spanish male voice, ideal for project presentations and standing out.",
                     "file": "models/es/kuvh_deave.mp3",
                     "gender": "male",
-                    "ref_text": "Eren Jaeger tenía un sueño, culpa de eso creyó que era necesario destruir una gran parte de la humanidad. Así que para cumplir esa visión que vió en un libro, de Satón Genocidio, si me preguntas esa idea no fue muy brillante, pero la clave para entenderlo no está en él, sino en las últimas palabras de uno de los asesinos del anime. Kenny Ankerman, antes de morir, dijo que todos son escapos de algo, un sueño, recol, una persona. Cada uno necesita algo para seguir adelante. Esta idea nos lleva de vuelta a Eren de niño, cuando vio el libro de Armin se obsesionó no solo con la libertad, sino también con una imagen específica, un mundo desconocido y vasto, con desiertos de hielo y mares en llamas."
+                    "ref_text": "Eren Jaeger tenía un sueño, culpa de eso creyó que era necesario destruir una gran parte de la humanidad. Así que para cumplir esa visión que vió en un libro, de Satón Genocidio, si me preguntas esa idea no fue muy brillante, pero la clave para entenderlo no está en él, sino en las últimas palabras de uno de los asesinos del anime. Kenny Ankerman, antes de morir, dijo que todos son escapos de algo, un sueño, recol, una persona. Cada uno necesita algo para seguir adelante. Esta idea nos lleva de vuelta a Eren de niño, cuando vio el libro de Armin se obsesionó no solo con la libertad, sino también con una imagen específica, un mundo desconocido y vasto, con desiertos de hielo y mares en llamas.",
+                    "model": "models/es/pt/kuvh_deave.pt"
                 },
                 {
                     "id": "aaaurekieasskalo",
@@ -222,7 +245,8 @@
                     "description": "A professional and commanding Spanish male voice, ideal for project presentations and standing out.",
                     "file": "models/es/kuvh_dave_full.mp3",
                     "gender": "male",
-                    "ref_text": "Eren Jaeger tenía un sueño. Culpa de eso creyó que era necesario destruir una gran parte de la humanidad. Así que para cumplir esa visión que vio en un libro, desató un genocidio. Si me preguntas esa idea no fue muy brillante, pero la clave para entenderlo no está en él, sino en las últimas palabras de uno de los asesinos del anime. Kenny Ackerman, antes de morir, dijo que todos son escapos de algo, un sueño, de col, una persona. Cada uno necesita algo para seguir adelante. Esta idea nos lleva de vuelta a Eren de niño. Cuando vio el libro de Armin se obsesionó no solo con la libertad, sino también con una imagen específica, un mundo desconocido y vasto, con desiertos de hielo y mares en llamas. Ese paisaje, como él lo llamaba, se convirtió en su razón para vivir. Pero el mundo real no estaba vacío, estaba lleno de gente inocente, de familias y niños, y Eren lo sabía. Dentro de sus pensamientos vio las caras, los sueños y las esperanzas de toda esa gente que iba a aplastar. Sentía constantemente una profunda culpa que lo llevaba a llorar muchas veces. Durante este proceso su conciencia y humanidad se veían amenazadas por su obsesión. Aún así la adicción fue más fuerte. El retumbar, la catástrofe que Eren desata, no fue necesariamente un plan para salvar a sus amigos, tampoco fue un sacrificio heroico, sino una decisión compleja de contradicciones internas. Kedi tenía razón, Eren no era un dios ni un demonio, simplemente era el esclavo más peligroso de todos. Y así nació uno de los personajes más importantes de Shingeki no Kyojin de la historia."
+                    "ref_text": "Eren Jaeger tenía un sueño. Culpa de eso creyó que era necesario destruir una gran parte de la humanidad. Así que para cumplir esa visión que vio en un libro, desató un genocidio. Si me preguntas esa idea no fue muy brillante, pero la clave para entenderlo no está en él, sino en las últimas palabras de uno de los asesinos del anime. Kenny Ackerman, antes de morir, dijo que todos son escapos de algo, un sueño, de col, una persona. Cada uno necesita algo para seguir adelante. Esta idea nos lleva de vuelta a Eren de niño. Cuando vio el libro de Armin se obsesionó no solo con la libertad, sino también con una imagen específica, un mundo desconocido y vasto, con desiertos de hielo y mares en llamas. Ese paisaje, como él lo llamaba, se convirtió en su razón para vivir. Pero el mundo real no estaba vacío, estaba lleno de gente inocente, de familias y niños, y Eren lo sabía. Dentro de sus pensamientos vio las caras, los sueños y las esperanzas de toda esa gente que iba a aplastar. Sentía constantemente una profunda culpa que lo llevaba a llorar muchas veces. Durante este proceso su conciencia y humanidad se veían amenazadas por su obsesión. Aún así la adicción fue más fuerte. El retumbar, la catástrofe que Eren desata, no fue necesariamente un plan para salvar a sus amigos, tampoco fue un sacrificio heroico, sino una decisión compleja de contradicciones internas. Kedi tenía razón, Eren no era un dios ni un demonio, simplemente era el esclavo más peligroso de todos. Y así nació uno de los personajes más importantes de Shingeki no Kyojin de la historia.",
+                    "model": "models/es/pt/kuvh_dave_full.pt"
                 }
             ]
         },
@@ -236,7 +260,8 @@
                     "description": "An exciting Portuguese male voice, perfect for YouTube intros, curiosity channels, and storytelling.",
                     "file": "models/pt/paulo.mp3",
                     "gender": "male",
-                    "ref_text": "Prepare-se, pois hoje veremos mais histórias reais incríveis de pessoas sortudas que sobreviveram ao impossível."
+                    "ref_text": "Prepare-se, pois hoje veremos mais histórias reais incríveis de pessoas sortudas que sobreviveram ao impossível.",
+                    "model": "models/pt/pt/paulo.pt"
                 },
                 {
                     "id": "l9o8s7a6r5o4p3t2b100",
@@ -245,7 +270,8 @@
                     "description": "A motivational Portuguese male voice, inspiring and determined, great for coaching and uplifting content.",
                     "file": "models/pt/losaro.mp3",
                     "gender": "male",
-                    "ref_text": "A ideia é nunca perder a motivação para subir cada degrau rumo ao sucesso, por mais difícil que seja."
+                    "ref_text": "A ideia é nunca perder a motivação para subir cada degrau rumo ao sucesso, por mais difícil que seja.",
+                    "model": "models/pt/pt/losaro.pt"
                 }
             ]
         }
