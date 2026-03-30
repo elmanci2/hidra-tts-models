@@ -2,12 +2,12 @@ import requests
 import json
 import os
 
-# curl -X POST "http://localhost:8000/tts/extract_voice" \
+# curl -X POST "https://bpsp9hckbdna42-8000.proxy.runpod.net/tts/extract_voice" \
 #      -H "Content-Type: application/json" \
 #      -d '{
-#            "audio_ref_path": "/ruta/a/referencia.mp3",
-#            "output_path": "/ruta/a/voz_perfil.pt",
-#            "ref_text": "Texto que se dice en el audio de referencia."
+#            "audio_ref_path": "/home/nuxa/Documentos/dev/hidra/hidra-tts-models/models/es/kuv_will.mp3",
+#            "output_path": "/home/nuxa/Documentos/dev/hidra/hidra-tts-models/models/es/kuv_will.pt",
+#            "ref_text": "El mundo ardía en cenizas. El eco de la destrucción resonaba en una ciudad que ya no era más que un esqueleto de concreto y fuego. Desde lo alto, el paisaje era un infierno de humo y ruinas, el testamento de una batalla que había cobrado un precio demasiado alto."
 #          }'
 # ```
 

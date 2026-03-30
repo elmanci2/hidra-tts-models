@@ -129,6 +129,16 @@
             "grup_name": "es",
             "models": [
                 {
+                    "id": "aadss-adasaafijIIiiisooo",
+                    "language": "es",
+                    "name": "wilkuv_will",
+                    "description": "interpretaion de juv en will",
+                    "file": "models/es/kuv_will.mp3",
+                    "gender": "male",
+                    "ref_text": "El mundo ardía en cenizas. El eco de la destrucción resonaba en una ciudad que ya no era más que un esqueleto de concreto y fuego. Desde lo alto, el paisaje era un infierno de humo y ruinas, el testamento de una batalla que había cobrado un precio demasiado alto.",
+                    "model": "models/es/pt/kuv_will.pt"
+                },
+                {
                     "id": "343253dfsPPDfasaassd",
                     "language": "es",
                     "name": "arthis_kuvs",
